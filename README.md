@@ -99,7 +99,3 @@ The frontend is built with React and Vite. It provides a responsive and interact
      cd frontend
      npm run dev
      ```
-
-
-## License
-This project is licensed under the MIT License.
