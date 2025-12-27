@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "dev": "node src/index.js"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
-  "type":"module",
+  "type": "module",
   "license": "ISC",
   "description": "",
+  "engines": {
+    "node": ">=18.x"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cloudinary": "^2.5.1",
