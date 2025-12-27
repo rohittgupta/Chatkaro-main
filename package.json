@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "cloudinary": "^2.6.1",
+    "framer-motion": "^12.22.0",
+    "lucide-react": "^0.525.0",
+    "mongodb": "^6.17.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "daisyui": "^5.0.43"
+  }
+}
